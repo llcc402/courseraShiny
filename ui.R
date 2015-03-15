@@ -27,7 +27,7 @@ shinyUI(pageWithSidebar(
                 br(),
                 helpText(a("Click here to see the code of ui.R and server.R",
                            target = "_blank",
-                           href = "http://www.baidu.com"))
+                           href = "https://github.com/llcc402/courseraShiny"))
         ),
         
         mainPanel(
